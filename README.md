@@ -128,6 +128,10 @@ Step 7: Finalize and Export
 | Speed | Faster | Slower |
 | Engineering Usefulness | High | High |
 
+## 📄 Project Report
+
+[Click here to view EX 1 PROMPT BY IRFAN (PDF)](./EX%201%20PROMPT%20BY%20IRFAN.pdf)
+
 
 # Result
 
