@@ -59,5 +59,76 @@ Step 7: Finalize and Export
 
 # Output
 
+## Comparative Analysis of Generative AI Models
+**Comparing ChatGPT and Gemini using identical prompts**
+
+**Name:** Muhammad Irfan M
+**Reg No:** 212225040262
+
+**Tools Selected:** ChatGPT, Gemini
+**Evaluation Metrics:** Accuracy, Creativity, Hallucination, Reasoning, Speed, Engineering Usefulness
+
+### 1. Foundational Concepts of Generative AI
+**Prompt:** Explain the foundational concepts of Generative Artificial Intelligence. Please provide a clear overview of what it is, how it works, and how it differs from traditional discriminative AI.
+
+| Metric | ChatGPT | Gemini |
+|---|---|---|
+| Accuracy | High | High |
+| Creativity | Medium | High |
+| Hallucination | Low | Low |
+| Reasoning | High | High |
+| Speed | Slower | Faster |
+| Engineering Usefulness | High | High |
+
+### 2. Generative AI Architectures (Focusing on Transformers)
+**Prompt:** Provide a detailed explanation of Generative AI architectures, focusing specifically on the Transformer architecture. Break down its core components, such as self-attention mechanisms, and explain why it is so effective for generative tasks.
+
+| Metric | ChatGPT | Gemini |
+|---|---|---|
+| Accuracy | High | High |
+| Creativity | Medium | High |
+| Hallucination | Low | Low |
+| Reasoning | High | High |
+| Speed | Slower | Faster |
+| Engineering Usefulness | Very High | High |
+
+### 3. Generative AI Architecture and Applications
+**Prompt:** Discuss the primary architectures used in Generative AI (such as Transformers, GANs, VAEs, or Diffusion models) and provide specific, real-world applications for each type of architecture.
+
+| Metric | ChatGPT | Gemini |
+|---|---|---|
+| Accuracy | High | High |
+| Creativity | Medium | High |
+| Hallucination | Low | Low-Medium |
+| Reasoning | High | High |
+| Speed | Faster | Slower |
+| Engineering Usefulness | High | Very High |
+
+### 4. Impact of Scaling in LLMs
+**Prompt:** Analyze the impact of scaling on Large Language Models (LLMs). Explain how increasing model parameters, training data volume, and compute power affects model performance, capabilities, and the development of emergent behaviors.
+
+| Metric | ChatGPT | Gemini |
+|---|---|---|
+| Accuracy | High | Very High |
+| Creativity | Medium | High |
+| Hallucination | Low | Low |
+| Reasoning | High | Very High |
+| Speed | Faster | Slower |
+| Engineering Usefulness | High | Very High |
+
+### 5. What is an LLM and How It Is Built
+**Prompt:** Explain exactly what a Large Language Model (LLM) is. Provide a step-by-step overview of the entire process of how an LLM is built, covering stages from data collection and tokenization to pre-training and fine-tuning.
+
+| Metric | ChatGPT | Gemini |
+|---|---|---|
+| Accuracy | High | High |
+| Creativity | Medium | Medium-High |
+| Hallucination | Low | Low |
+| Reasoning | High | High |
+| Speed | Faster | Slower |
+| Engineering Usefulness | High | High |
+
 
 # Result
+
+Five identical prompts on Generative AI and LLM fundamentals were given to ChatGPT and Gemini, and their responses were compared on six metrics. Both tools gave accurate, well-structured explanations with low hallucination. Gemini was rated higher in creativity and gave more depth on scaling, while ChatGPT gave broader, step-by-step coverage. Thus, the comprehensive report on Generative AI and Large Language Models was successfully completed.
